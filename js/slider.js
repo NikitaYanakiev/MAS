@@ -26,7 +26,7 @@ if (sliders) {
             }
         }
         if (slider.classList.contains('_gallery')) {
-            //slider.data('LightGallery').destroy(true);
+            // slider.data('LightGallery').destroy(true);
         }
     }
     sliders_bild_callback();
